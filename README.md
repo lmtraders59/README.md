@@ -16,7 +16,7 @@ Click here to access the Domain for Project 15: https://www.project15.routesmaps
 
 # My Project
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy_to_Heroku-brightgreen)](https://heroku.com/deploy)
+[![HTML5](https://img.shields.io/badge/Deploy_to_Heroku-brightgreen)](https://heroku.com/deploy)
 
 
 
