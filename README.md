@@ -1,7 +1,6 @@
-# My Name is Louis Maiorino
+# My Name is Lou Maiorino
 
 ## Full Stack Developer
-
 Hi! 👋 I'm a Full-Stack engineer specializing in JavaScript, React.js, Node.js, and related technologies. I'm working with the MERN stack. I love coding and problem-solving, and I'm always up for a challenge.
 
 ## Link to the Back-end Repo
