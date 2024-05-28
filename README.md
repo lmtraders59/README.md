@@ -13,7 +13,8 @@ Click here to access the Domain for Project 15: https://www.project15.routesmaps
 
 ## Languages & Tools🧑🏼‍💻:
 
-![Static Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white&label=%20)
+![Static Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white&label=%20)![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=%20css&logoColor=white&label=%20)
+
 
   
 
